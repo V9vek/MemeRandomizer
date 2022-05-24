@@ -1,7 +1,12 @@
 # Random Meme Generator
 
 ## :scroll: Description
-Fetching random 🔥 memes from r/subreddit and share among friends
+Fetching random 🔥 memes from r/subreddit_name and share among friends
+
+## 📸 Screenshots
+|||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |:-----------------------------------------: |
+| ![](media/HomeScreen1.png) | ![](media/HomeScreen2.png) | ![](media/HomeScreen3.png) | ![](media/ShareScreen.png) |
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
